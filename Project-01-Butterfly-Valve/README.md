@@ -80,15 +80,13 @@ This assembly consists of the following parts:
 
 # 📂 Project Files
 
-This repository includes:
-
-- Engineering Drawing
-- Exploded Assembly View
-- Motion Study Animation
-- Assembly Render
-- Individual Part Models
-- Portfolio Documentation (PDF)
-
+| File | Description |
+|------|-------------|
+| Butterfly_Valve_Portfolio.pdf | Complete project documentation |
+| Motion_Study.mp4 | Motion Study Animation |
+| Engineering_Drawing.png | Manufacturing Drawing |
+| Assembly_Render.png | Final Assembly |
+| Exploded_View.png | Exploded Assembly |
 ---
 
 # 🎥 Motion Study
@@ -108,25 +106,25 @@ It illustrates:
 
 ### Final Assembly
 
-(Add Assembly Image)
+![Final Assembly](Assembly_Render.png)
 
 ---
 
 ### Exploded View
 
-(Add Exploded View Image)
+![Final Assembly](Assembly_Render.png)
 
 ---
 
 ### Engineering Drawing
 
-(Add Drawing Image)
+(![Engineering Drawing](Engineering_Drawing.png)
 
 ---
 
 ### Motion Study
 
-(Add Motion Study GIF or Screenshot)
+[📥 Download / Watch Motion Study](Motion_Study.mp4)
 
 ---
 
