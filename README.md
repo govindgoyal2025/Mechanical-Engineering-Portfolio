@@ -33,7 +33,6 @@ To build practical engineering skills by designing real-world mechanical product
 - Finite Element Analysis (Learning)
 
 ### Product Development
-- Product Lifecycle Management (PLM)
 - Mechanical Assembly Design
 - Material Selection
 
@@ -44,12 +43,11 @@ To build practical engineering skills by designing real-world mechanical product
 | Project | Status |
 |---------|--------|
 | Butterfly Valve Design & Assembly | ✅ Completed |
-| Toggle Clamp | 🔄 Planned |
-| Hydraulic Cylinder | 🔄 Planned |
-| Flange Coupling | 🔄 Planned |
-| Bench Vice | 🔄 Planned |
-| Planetary Gearbox | 🔄 Planned |
-| Four-Cylinder Engine | 🔄 Planned |
+| Pipe Vice | ✅ Completed |
+| Universal Coupling | ✅ Completed |
+| Four-Cylinder Engine| ✅ Completed |
+| Toggle Clamp | ✅ Completed |
+| Hydraulic Cylinder | ✅ Completed |
 
 ---
 
@@ -58,7 +56,6 @@ To build practical engineering skills by designing real-world mechanical product
 - SOLIDWORKS CAD
 - SOLIDWORKS Sheet Metal
 - Mastercam
-- Product Lifecycle Management (PLM)
 - SOLIDWORKS Simulation
 - Autodesk AutoCAD
 - GD&T
